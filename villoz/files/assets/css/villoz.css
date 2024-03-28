@@ -2236,11 +2236,11 @@ h6 {
   background-size: cover;
   background-repeat: no-repeat;
 }
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   .main-footer__bg {
     background-size: unset;
   }
-}
+} */
 .main-footer .container {
   position: relative;
 }
@@ -3235,7 +3235,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding: 350px 0 0;
+  padding: 122px 0 0;
   overflow: hidden;
 }
 @media (max-width: 767px) {
