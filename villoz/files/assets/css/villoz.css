@@ -10512,7 +10512,7 @@ body.megamenu-popup-active .mobile-nav__content {
 --------------------------------------------------------------*/
 .service-one {
   background-color: var(--villoz-white, #fff);
-  padding: 120px 0 0;
+  padding: 0px 0 0;
 }
 @media (max-width: 767px) {
   .service-one {
